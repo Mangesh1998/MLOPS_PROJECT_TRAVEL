@@ -34,21 +34,24 @@ Here are the visual interfaces for the three Streamlit applications included in 
 ### 1️⃣ Flight Price Prediction App
 Use this app to input travel criteria and get real-time price predictions from the best-performing model.
 
-![Flight Price Prediction Streamlit App](Travel_ML_System/Sample_App_images/flight_price_prediction_1.png)
+<img width="1025" height="658" alt="{6E3664E3-87F2-4875-A33F-4478434C58F3}" src="https://github.com/user-attachments/assets/17529658-9728-431c-9b49-53815eff2bb1" />
+
 
 ---
 
 ### 2️⃣ Hotel Recommender App
 Use this app to generate personalized hotel recommendations using Collaborative Filtering.
 
-![Hotel Recommender Streamlit App](Hotel%20Recommender%20System/Hotel_recommendation_app.png)
+<img width="1682" height="667" alt="{B1A08922-5710-41CD-87CC-CC40CDAD5266}" src="https://github.com/user-attachments/assets/18de8cdb-d99c-4b69-8163-da787a89a0a5" />
+
 
 ---
 
 ### 3️⃣ Gender Classification App
 Use this app to analyze text profiles and predict the gender classification using Sentence Transformer embeddings.
 
-![Gender Classification Streamlit App](Gender%20Classification%20Model/Sample_app_image/Gender%20Classification%20app%20image.png)
+<img width="998" height="727" alt="{11BCF9D1-7E2D-4299-9CCD-452EA88E2683}" src="https://github.com/user-attachments/assets/cc6fe500-943b-420c-b09c-942d86e11abe" />
+
 
 ---
 
