@@ -1,0 +1,56 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+*.egg
+.installed.cfg
+
+# ─── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ─── Large model files (>50MB — exceed GitHub limits) ─────────────────────────
+# Run train_models.py to regenerate these locally
+Travel_ML_System/model/rf_model.pkl
+Travel_ML_System/model/rf_model_1.pkl
+
+# ─── Large dataset files (regenerated or available via Kaggle) ────────────────
+# The datasets are already in the repo from the original clone;
+# exclude only if re-added accidentally
+# Datasets/flights.csv   ← kept (23MB, within GitHub limits)
+# Datasets/hotels.csv    ← kept (2.4MB)
+# Datasets/users.csv     ← kept (tiny)
+
+# ─── MLflow artifacts ─────────────────────────────────────────────────────────
+mlruns/
+mlartifacts/
+
+# ─── Airflow runtime files ────────────────────────────────────────────────────
+Airflow_Travel_System/airflow/airflow.db
+Airflow_Travel_System/airflow/airflow-webserver.pid
+Airflow_Travel_System/airflow/logs/
+
+# ─── OS / IDE ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ─── Streamlit ────────────────────────────────────────────────────────────────
+.streamlit/
