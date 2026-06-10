@@ -159,7 +159,3 @@ python flight-price-pred-mlflow.py
 ```
 
 ---
-
-## 👥 Contributors
-
-- **Mangesh** (mangesh@almabetter.com)
